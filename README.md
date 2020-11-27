@@ -1,6 +1,8 @@
 # e2e-tests
 End-to-end test suite for Tinlake.
 
+**Note: this project has been moved to the new repo at https://github.com/centrifuge/apps.**
+
 ## Setup
 1. Use Node v12.18.3: `nvm use`
 2. Install dependencies: `npm install`
